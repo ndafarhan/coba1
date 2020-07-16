@@ -1,2 +1,2 @@
-# coba1
-test repo
+# Percobaan
+Ini adalah repository pertama dan berisi file percobaan
