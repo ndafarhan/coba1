@@ -1,0 +1,10 @@
+1. git config --list
+(untuk melihat akun github)
+2. git clone <link>
+(untuk download repository ke local, ini berlaku jika belum ada folder di local)
+3. git add .
+(untuk add semua file, bisa jg . diganti dg file spesifik)
+4. git commit -m "kata2nya"
+(untuk menambahkan keterangan)
+5. git push
+(untuk upload ke repository github)
